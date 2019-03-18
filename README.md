@@ -37,14 +37,19 @@ As for hosts, this can help them to make strategies of location choice.
 ## References
 [1] Zabokrtsky, Z. (2015). Feature engineering in machine learning. Institute of Formal and Applied
 Linguistics, Charles University in Prague.
+
 [2] Zheng, H., Yuan, J., & Chen, L. (2017). Short-term load forecasting using EMD-LSTM neural
 networks with a Xgboost algorithm for feature importance evaluation. Energies, 10(8), 1168.
+
 [3] Chen, T., & Guestrin, C. (2016, August). Xgboost: A scalable tree boosting system. In Proceedings
 of the 22nd acm sigkdd international conference on knowledge discovery and data mining (pp. 785-
 794). ACM.
+
 [4] Smith, C. (2018). 100 Amazing Airbnb Statistics. Retrieved from
 https://expandedramblings.com/index.php/airbnb-statistics/
+
 [5] Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine learning, 20(3), 273-297.
+
 [6] Ulfsson, H. (2017). Predicting Airbnb user's desired travel destinations.
 
 > Fork or reference, please indicate the source @ Henry Zhao . Thx
