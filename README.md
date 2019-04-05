@@ -6,6 +6,8 @@ Zhao Hengrui(G1801739D)
 Luo Shuang (G1702502A) 
 Wang Sixin(G1801764B) 
 
+## License
+MIT LICENSE
 **Copyright@Nanyang Technological University**
 
 ## Introduction
